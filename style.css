@@ -6,7 +6,7 @@ body{
     width: 100%;
     height: 100vh;
 /*     background-image: linear-gradient(#00063fa1, #07031b88), url(../1-css-web/images/1_FFYtzf28XKPFBdknfXf-jg.jpeg); */
-    background-image: linear-gradient(#00063fa1, #07031b88), url(/images/1_FFYtzf28XKPFBdknfXf-jg.jpeg);
+    background-image: linear-gradient(#00063fa1, #07031b88), url(images/1_FFYtzf28XKPFBdknfXf-jg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
